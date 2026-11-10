@@ -21,8 +21,7 @@ Research Experience :
 ● Network Intrusion Detection Systems (NIDS)
 ● Transformer-based network intrusion detection
 ● Semi-supervised continual learning
-
-VAE-assisted learning and drift detection
+● VAE-assisted learning and drift detection
 
 Projects
 
