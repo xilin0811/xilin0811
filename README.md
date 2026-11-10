@@ -1,16 +1,41 @@
-## Hi there 👋
+I'm a Computer Science graduate from Taiwan with a strong interest in Software Engineering, Cybersecurity, and AI Systems.
+My academic and project experience includes deep learning, network intrusion detection, continual learning, database systems, and Linux server environments.
+I enjoy understanding how systems work, solving technical problems, and turning ideas into practical implementations.
 
-<!--
-**xilin0811/xilin0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills
 
-Here are some ideas to get you started:
+Programming Languages : 
+● Python, C, C++, Java, SQL, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI & Machine Learning :
+● PyTorch, Transformers, Variational Autoencoders (VAE)
+● Semi-Supervised Learning, Continual Learning
+
+Systems & Development :
+● Linux (Ubuntu), SSH, Nginx
+● MySQL, Git, GitHub
+
+GPU Server Environments
+
+Research Experience :
+● Network Intrusion Detection Systems (NIDS)
+● Transformer-based network intrusion detection
+● Semi-supervised continual learning
+
+VAE-assisted learning and drift detection
+
+Projects
+
+Restaurant Management System :
+● A university team project developed using PHP and MySQL, including inventory, product, order, and financial management.
+● Repository documentation and code improvements in progress.
+
+Linux Web Server Lab :
+● A hands-on environment using Ubuntu and Nginx to serve web content to a Windows client.
+● Expanding toward application deployment, server configuration, and troubleshooting.
+
+Currently Learning :
+● Git and GitHub workflows
+● Linux System Administration
+● Docker and Containerization
+● Networking and DevOps
